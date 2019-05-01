@@ -2,6 +2,6 @@
 
 Basic webpage wireframe layout using HTML and CSS styling
 
-##Deployed Link
+## Deployed Link
 https://kayjlou.github.io/HW-Wireframe/
 
